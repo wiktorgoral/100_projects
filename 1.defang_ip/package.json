@@ -1,0 +1,8 @@
+{
+  "name": "defang_ip",
+  "main": "main.js",
+  "test": "jest",
+  "jest": {
+    "verbose": true
+  }
+}

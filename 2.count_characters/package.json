@@ -1,0 +1,9 @@
+{
+  "name": "count_characters",
+  "main": "main.js",
+  "test": "jest",
+  "jest": {
+    "verbose": true
+  }
+}
+
