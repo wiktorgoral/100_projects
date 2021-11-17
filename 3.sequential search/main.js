@@ -4,9 +4,7 @@ from the beginning of the array and continue till we find the target value.`
 
 module.exports.search = (list, point) => {
     for (let i = 0; i < list.length; i++) {
-        if (i === point) {
-            return i;
-        }
+        if (list[i] === point) return i;
     }
     return false;
 };

@@ -4,7 +4,6 @@
   "test": "jest",
   "jest": {
     "verbose": true
-  },
-  "type": "commonjs"
+  }
 }
 
